@@ -1,0 +1,15 @@
+{
+  "name": "ease",
+  "description": "Description for ease",
+  "main": "",
+  "license": "UNLICENSED",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
